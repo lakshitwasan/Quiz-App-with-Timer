@@ -1,1 +1,1 @@
-# Quiz-App-with-Timer
+Quiz App With Timer
